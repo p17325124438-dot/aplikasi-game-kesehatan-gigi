@@ -1,0 +1,8 @@
+{
+  "name": "Remix Gigi Ceria: Petualangan Pahlawan Gigi Anak",
+  "description": "Aplikasi edukasi kesehatan gigi interaktif untuk anak-anak dengan game sikat gigi seru, basmi kuman, makanan sehat vs perusak gigi, dan sertifikat pahlawan gigi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
